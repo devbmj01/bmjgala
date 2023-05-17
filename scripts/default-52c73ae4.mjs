@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as a,N as c}from"./entry-b423da7c.mjs";const o={},r={class:"bg-black"};function n(e,_){return t(),a("div",r,[c(e.$slots,"default")])}var d=s(o,[["render",n]]);export{d as default};
